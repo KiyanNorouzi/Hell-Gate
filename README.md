@@ -7,9 +7,11 @@
 Первый пользователь создает сервер, а последующие пользователи становятся клиентами.
  
 
+[GitHub Pages](https://www.disk.yandex.com/i/U70Eg4UNdXDR6w/).
 
 
-https://pages.github.com](https://www.disk.yandex.com/i/U70Eg4UNdXDR6w/
+
+
 
 
 ![alt text](https://github.com/KiyanNorouzi/Hell-Gate/blob/main/ZoneA.png?raw=true)
