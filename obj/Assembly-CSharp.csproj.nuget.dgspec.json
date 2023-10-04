@@ -1,0 +1,327 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Game Dev\\Projects\\Hell Gate\\Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "d:\\Game Dev\\Projects\\Hell Gate\\Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Game Dev\\Projects\\Hell Gate\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "d:\\Game Dev\\Projects\\Hell Gate\\Assembly-CSharp.csproj",
+        "packagesPath": "C:\\Users\\Kiyan\\.nuget\\packages\\",
+        "outputPath": "d:\\Game Dev\\Projects\\Hell Gate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kiyan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Codegen.Cecil.csproj": {
+                "projectPath": "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Codegen.Cecil.csproj"
+              },
+              "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Demos.csproj": {
+                "projectPath": "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Demos.csproj"
+              },
+              "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Runtime.csproj": {
+                "projectPath": "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Runtime.csproj"
+              },
+              "d:\\Game Dev\\Projects\\Hell Gate\\GameKit.Dependencies.csproj": {
+                "projectPath": "d:\\Game Dev\\Projects\\Hell Gate\\GameKit.Dependencies.csproj"
+              },
+              "d:\\Game Dev\\Projects\\Hell Gate\\GameKit.Utilities.csproj": {
+                "projectPath": "d:\\Game Dev\\Projects\\Hell Gate\\GameKit.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Codegen.Cecil.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Codegen.Cecil.csproj",
+        "projectName": "FishNet.Codegen.Cecil",
+        "projectPath": "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Codegen.Cecil.csproj",
+        "packagesPath": "C:\\Users\\Kiyan\\.nuget\\packages\\",
+        "outputPath": "d:\\Game Dev\\Projects\\Hell Gate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kiyan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Demos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Demos.csproj",
+        "projectName": "FishNet.Demos",
+        "projectPath": "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Demos.csproj",
+        "packagesPath": "C:\\Users\\Kiyan\\.nuget\\packages\\",
+        "outputPath": "d:\\Game Dev\\Projects\\Hell Gate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kiyan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Runtime.csproj": {
+                "projectPath": "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Runtime.csproj"
+              },
+              "d:\\Game Dev\\Projects\\Hell Gate\\GameKit.Utilities.csproj": {
+                "projectPath": "d:\\Game Dev\\Projects\\Hell Gate\\GameKit.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Runtime.csproj",
+        "projectName": "FishNet.Runtime",
+        "projectPath": "d:\\Game Dev\\Projects\\Hell Gate\\FishNet.Runtime.csproj",
+        "packagesPath": "C:\\Users\\Kiyan\\.nuget\\packages\\",
+        "outputPath": "d:\\Game Dev\\Projects\\Hell Gate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kiyan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "d:\\Game Dev\\Projects\\Hell Gate\\GameKit.Utilities.csproj": {
+                "projectPath": "d:\\Game Dev\\Projects\\Hell Gate\\GameKit.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\Game Dev\\Projects\\Hell Gate\\GameKit.Dependencies.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Game Dev\\Projects\\Hell Gate\\GameKit.Dependencies.csproj",
+        "projectName": "GameKit.Dependencies",
+        "projectPath": "d:\\Game Dev\\Projects\\Hell Gate\\GameKit.Dependencies.csproj",
+        "packagesPath": "C:\\Users\\Kiyan\\.nuget\\packages\\",
+        "outputPath": "d:\\Game Dev\\Projects\\Hell Gate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kiyan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\Game Dev\\Projects\\Hell Gate\\GameKit.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Game Dev\\Projects\\Hell Gate\\GameKit.Utilities.csproj",
+        "projectName": "GameKit.Utilities",
+        "projectPath": "d:\\Game Dev\\Projects\\Hell Gate\\GameKit.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Kiyan\\.nuget\\packages\\",
+        "outputPath": "d:\\Game Dev\\Projects\\Hell Gate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kiyan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "d:\\Game Dev\\Projects\\Hell Gate\\GameKit.Dependencies.csproj": {
+                "projectPath": "d:\\Game Dev\\Projects\\Hell Gate\\GameKit.Dependencies.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
