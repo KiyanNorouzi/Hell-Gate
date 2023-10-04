@@ -8,8 +8,9 @@
  
 
 
- 
-[Ссылка на видео в лучшем качестве](https://pages.github.com](https://www.disk.yandex.com/i/U70Eg4UNdXDR6w/).
+
+https://pages.github.com](https://www.disk.yandex.com/i/U70Eg4UNdXDR6w/
+
 
 ![alt text](https://github.com/KiyanNorouzi/Hell-Gate/blob/main/ZoneA.png?raw=true)
 ![alt text](https://github.com/KiyanNorouzi/Hell-Gate/blob/main/ZoneB.png?raw=true)
